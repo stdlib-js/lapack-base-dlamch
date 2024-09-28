@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-01)
+## Unreleased (2024-09-28)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`abf0407`](https://github.com/stdlib-js/stdlib/commit/abf040787f6598438b0100a729a8331b7f80f62f) - **chore:** resolve lint errors in TS files _(by Philipp Burckhardt)_
 -   [`e0cef99`](https://github.com/stdlib-js/stdlib/commit/e0cef995e884021db3001dc1a3cfef0ca7b368c2) - **style:** remove extra spaces for regular expressions in publish script _(by Philipp Burckhardt)_
 -   [`536f5db`](https://github.com/stdlib-js/stdlib/commit/536f5dbb8b2170a59f8a0c0181d85889181d8a99) - **feat:** add `lapack/base/dlamch` [(#2568)](https://github.com/stdlib-js/stdlib/pull/2568) _(by Pranav Goswami, Athan Reines)_
 
