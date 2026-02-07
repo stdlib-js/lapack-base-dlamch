@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dlamch from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlamch@deno/mod.js';
+import dlamch from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlamch@v0.1.1-deno/mod.js';
 ```
 
 #### dlamch( cmach )
@@ -90,7 +90,7 @@ The function has the following parameters:
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import dlamch from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlamch@deno/mod.js';
+import dlamch from 'https://cdn.jsdelivr.net/gh/stdlib-js/lapack-base-dlamch@v0.1.1-deno/mod.js';
 
 var out = dlamch( 'E' );
 console.log( 'Precision: %d', out );
