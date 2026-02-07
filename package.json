@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/lapack-base-dlamch",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Determine double-precision floating-point machine parameters.",
   "license": "Apache-2.0",
   "author": {
@@ -38,11 +38,11 @@
   },
   "dependencies": {
     "@stdlib/constants-float64-eps": "^0.2.2",
-    "@stdlib/constants-float64-max": "^0.2.2",
-    "@stdlib/constants-float64-max-base2-exponent": "^0.2.2",
-    "@stdlib/constants-float64-min-base2-exponent": "^0.2.2",
-    "@stdlib/constants-float64-precision": "^0.2.2",
-    "@stdlib/constants-float64-smallest-normal": "^0.2.2",
+    "@stdlib/constants-float64-max": "^0.2.3",
+    "@stdlib/constants-float64-max-base2-exponent": "^0.2.3",
+    "@stdlib/constants-float64-min-base2-exponent": "^0.2.3",
+    "@stdlib/constants-float64-precision": "^0.2.3",
+    "@stdlib/constants-float64-smallest-normal": "^0.2.3",
     "@stdlib/string-base-lowercase": "^0.4.1"
   },
   "devDependencies": {
